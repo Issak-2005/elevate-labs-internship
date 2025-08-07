@@ -7,6 +7,7 @@ Each day’s work is organized in its own folder (e.g., `day1`, `day2`, etc.), w
 
 - `day1/` - Calculator and basic Java programs
 - `day2/` - Student Management System 
+- `day3/` - Library Management System 
 - ...
 - `README.md` - This file
 

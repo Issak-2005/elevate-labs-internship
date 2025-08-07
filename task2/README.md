@@ -22,11 +22,11 @@ This folder contains Java programs for managing student information as part of t
 
 1. Compile the Java files:
     ```
-    javac day2/Student.java day2/StudentManagementSystem.java
+    javac task2/Student.java task2/StudentManagementSystem.java
     ```
 2. Run the management system:
     ```
-    java day2.StudentManagementSystem
+    java task2.StudentManagementSystem
     ```
 
 ## Example Usage

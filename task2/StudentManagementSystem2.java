@@ -2,7 +2,7 @@
 // In this case, only one class (StudentManagementSystem2) should be declared as public and the file name must match this public class.
 // The other class (Student2) should not be public and will only be accessible within this file (package-private).
 // The following code is a complete implementation of the Student Management System with the Student2 class defined within the same file.
-package day2;
+package task2;
 
 import java.util.ArrayList;
 import java.util.Scanner;

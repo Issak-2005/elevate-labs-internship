@@ -1,4 +1,4 @@
-package day3;
+package task3;
 
 public class Book {
     private String title;

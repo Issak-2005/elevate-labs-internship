@@ -29,11 +29,11 @@ This folder contains Java programs for managing a library system as part of the 
 
 1. Compile all Java files:
     ```
-    javac day3/*.java
+    javac task3/*.java
     ```
 2. Run the program:
     ```
-    java day3.Main
+    java task3.Main
     ```
 
 ## Example Usage

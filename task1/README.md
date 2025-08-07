@@ -15,12 +15,12 @@ The calculator accepts multiple numbers for each operation and displays results 
 
 1. **Compile the code:**
     ```
-    javac day1/Calculator.java
+    javac task1/Calculator.java
     ```
 
 2. **Run the program:**
     ```
-    java day1.Calculator
+    java task1.Calculator
     ```
 
 ## Usage

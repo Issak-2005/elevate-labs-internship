@@ -51,7 +51,7 @@ Enter your choice:
 
 ## Author
 
-- [Issak Satta]
+- [ISSAK SATTA]
 - Elevate Labs Internship, 2025
 
 ---

@@ -48,4 +48,4 @@ Thank you for using the calculator!
 
 ## Author
 
-- [Issak Satta]
+- [ISSAK SATTA]

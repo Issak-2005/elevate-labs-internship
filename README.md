@@ -1,13 +1,14 @@
 # Elevate Labs Internship
 
 This repository contains all the code, projects, and notes from my Elevate Labs internship.  
-Each day’s work is organized in its own folder (e.g., `day1`, `day2`, etc.), with a variety of Java programs and exercises.
+Each day’s work is organized in its own folder (e.g., `task1`, `task2`, etc.), with a variety of Java programs and exercises.
 
 ## Structure
 
-- `day1/` - Calculator and basic Java programs
-- `day2/` - Student Management System 
-- `day3/` - Library Management System 
+- `task1/` - Calculator and basic Java programs
+- `task2/` - Student Management System 
+- `task3/` - Library Management System 
+- `task4/` - Notes App (NotesApp.java)
 - ...
 - `README.md` - This file
 
@@ -29,7 +30,7 @@ Each day’s work is organized in its own folder (e.g., `day1`, `day2`, etc.), w
 
 ## Author
 
-- [Issak Satta]
+- [ISSAK SATTA]
 - Elevate Labs Internship, 2025
 
 ---

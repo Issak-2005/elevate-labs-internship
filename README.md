@@ -8,7 +8,8 @@ Each day’s work is organized in its own folder (e.g., `task1`, `task2`, etc.),
 - `task1/` - Calculator and basic Java programs
 - `task2/` - Student Management System 
 - `task3/` - Library Management System 
-- `task4/` - Notes App (NotesApp.java)
+- `task4/` - Notes App 
+- `task5/` - Bank Account Management System
 - ...
 - `README.md` - This file
 

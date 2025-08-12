@@ -10,6 +10,7 @@ Each day’s work is organized in its own folder (e.g., `task1`, `task2`, etc.),
 - `task3/` - Library Management System 
 - `task4/` - Notes App 
 - `task5/` - Bank Account Management System
+- `task6/` - Java GUI – To-Do App
 - ...
 - `README.md` - This file
 

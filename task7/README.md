@@ -18,6 +18,7 @@ It is **user-friendly** because it automatically creates the database and table 
 ---
 ## How to Run  
 ### Using Command Line
+#### For MYSQL
 
 1. Compile the program:
 
@@ -30,8 +31,20 @@ It is **user-friendly** because it automatically creates the database and table 
    java task7.EmployeeApp
    ```
 
+#### For PostgreSQL
+1. Compile the program:
+
+   ```
+   javac task7/EmployeeApp1.java
+   ```
+2. Run the program:
+
+   ```
+   java task7.EmployeeApp1
+   ```
+
 ---   
-Note: Install suitable mysql-connector-java .jar file.
+Note: Install suitable mysql-connector-java or postgresql-connector (.jar) file.
 ---
 For me: mysql-connector-j-8.0.33.jar - given in this folder.
 ---

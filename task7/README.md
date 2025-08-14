@@ -30,8 +30,9 @@ It is **user-friendly** because it automatically creates the database and table 
    java task7.EmployeeApp
    ```
 
-   
+---   
 Note: Install suitable mysql-connector-java .jar file.
+---
 For me: mysql-connector-j-8.0.33.jar - given in this folder.
 ---
 

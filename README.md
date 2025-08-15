@@ -12,6 +12,7 @@ Each day’s work is organized in its own folder (e.g., `task1`, `task2`, etc.),
 - `task5/` - Bank Account Management System
 - `task6/` - Java GUI – To-Do App
 - `task7/` - Java JDBC – Employee Management System  
+- `task8/` - Java – Online Quiz Application
 - ...
 - `README.md` - This file
 

@@ -23,6 +23,8 @@ In addition, full projects completed during the internship are included.
 - `College Admission Management System/` - A complete Java-based system for handling student admissions and course allocations.
 - `OnlineQuizSystem/` - A quiz application developed in Java with multiple-choice questions and result calculation.
 
+...
+
 - `README.md` - This file
 
 ## How to Use
